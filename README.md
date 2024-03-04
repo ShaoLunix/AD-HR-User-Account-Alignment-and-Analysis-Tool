@@ -1,6 +1,6 @@
 # AD-HR User Account Alignment and Analysis Tool
 
-This repository contains the source code and documentation for the AD-HR User Account Alignment and Analysis Tool.
+This repository contains the source codes and documentation for the AD-HR User Account Alignment and Analysis Tool.
 
 ## Overview
 
